@@ -106,4 +106,4 @@ $( document ).ready(function() {
   });
 
   
-  alert("Advent calendar not suitable for Christmas haters")
+  alert("Not suitable for Christmas haters")
